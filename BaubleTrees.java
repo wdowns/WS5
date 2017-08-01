@@ -4,13 +4,13 @@ import java.awt.image.*;
 import javax.swing.JPanel;
 import javax.swing.JFrame;
 
-/**
- * Write a class FloorLayout with the only field variable private ArrayList<polygon>
- * toDraw; that allows to produce a rectangular layout of a floor.
- * 
+ /**
+ *  Class to display Christmas trees with baubles.
+ *
  * @author William Downs
  * @version 29/11/15
  */
+
 public class BaubleTrees extends Trees {
 
     /** The additional field variable is the number of baubles
