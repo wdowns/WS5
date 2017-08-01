@@ -1,5 +1,3 @@
-package ex5Solutions;
-
 import java.util.ArrayList;
 import java.awt.*;
 import java.awt.image.*;
@@ -7,10 +5,11 @@ import javax.swing.JPanel;
 import javax.swing.JFrame;
 
 /**
- *  Class to display Christmas trees with baubles.
- *
- *  @version 2015-11-18
- *  @author Manfred Kerber
+ * Write a class FloorLayout with the only field variable private ArrayList<polygon>
+ * toDraw; that allows to produce a rectangular layout of a floor.
+ * 
+ * @author William Downs
+ * @version 29/11/15
  */
 public class BaubleTrees extends Trees {
 
