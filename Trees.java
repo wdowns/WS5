@@ -9,8 +9,9 @@ import javax.swing.JFrame;
 /**
  *  Class to display simple Christmas trees.
  *
- *  @version 2015-11-18
- *  @author Manfred Kerber
+ *  
+ * @author William Downs
+ * @version 30/11/15
  */
 public class Trees extends JPanel {
 
