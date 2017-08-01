@@ -9,8 +9,8 @@ import javax.swing.JFrame;
 /**
  *  Class to display Christmas trees with baubles and a top star.
  *
- *  @version 2015-11-18
- *  @author Manfred Kerber
+ * @author William Downs
+ * @version 30/11/15
  */
 public class StarTrees extends BaubleTrees {
 
